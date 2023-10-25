@@ -1,0 +1,26 @@
+﻿1CV8LOG(ver 2.0)
+c89fd144-0c90-49f4-8fb4-075516a066eb
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-8RQG6NQ",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,53b80d34-9e32-4228-8805-30af7e8dfb93,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.New",8},
+{5,53b80d34-9e32-4228-8805-30af7e8dfb93,"Справочник.Контрагенты",1},
+{4,"_$Transaction$_.Commit",9},
+{4,"_$Session$_.Finish",10},
+{5,74b90518-f1cc-4042-8726-838d552579df,"Документ.ПКО",2},
+{4,"_$Data$_.Post",11},
+{5,bfc6d5e6-5d4a-40e9-b09a-c2e8fa181a4a,"Документ.РКО",3},
+{4,"_$Data$_.Update",12},
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.DBConfigUpdateError",13}
